@@ -10,14 +10,11 @@ Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas
 Tenho experiência em desenvolvimento e atualização de indicadores, automação de atividades repetitivas e manipulação de banco de dados.  <br>
 
 #### Algumas das minhas formações:
-
-- Análise e Desenvolvimento de Sistemas - Em Andamento
 - Python Impressionador - Em Andamento
 - SQL Impressionador - Em Andamento
 - Soft Skills - Concluído em 2023
 - Excel Impressionador - Concluído em 2022
 - PowerPoint Impressionador - Concluído em 2022
-- Administração de Empresas - Concluído em 2022
 
 #### Curiosidades
 Fui Key user SAP Ariba em 2023. <br>
