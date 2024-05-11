@@ -6,7 +6,7 @@
 
 ### Seja bem-vindo(a)!
 #### Sobre mim
-Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonada por inovação e aprender novas linguagens. <br>
+Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas.  <br>
 Tenho experiência em desenvolvimento e atualização de indicadores, automação de atividades repetitivas e manipulação de banco de dados.  <br>
 
 #### Algumas das minhas formações:
