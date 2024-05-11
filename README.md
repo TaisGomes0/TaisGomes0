@@ -1,16 +1,32 @@
-### Hi there 👋
+![Capa](https://github.com/TaisGomes0/TaisGomes0/blob/main/CapaPreta.png)
+<p align=center> 
+  <a href = "https://www.linkedin.com/in/taisgomes0/"><img src="LogoIn.png" width = 30px> </a>
+  <a href = "mailto:taisoliveira8220@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height = 30px width = 70px></a> 
+</p>
 
-<!--
-**TaisGomes0/TaisGomes0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Seja bem-vindo(a)!
+#### Sobre mim
+Formada em Administração e estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonada por inovação e aprender novas linguagens. <br>
+Tenho experiência em desenvolvimento e atualização de indicadores, automação de atividades repetitivas e manipulação de banco de dados.  <br>
 
-Here are some ideas to get you started:
+#### Algumas das minhas formações:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Análise e Desenvolvimento de Sistemas - Em Andamento
+- Python Impressionador - Em Andamento
+- SQL Impressionador - Em Andamento
+- Soft Skills - Concluído em 2023
+- Excel Impressionador - Concluído em 2022
+- PowerPoint Impressionador - Concluído em 2022
+- Administração de Empresas - Concluído em 2022
+
+#### Curiosidades
+Fui Key user SAP Ariba em 2023. <br>
+Palestrei no Congresso Acadêmico de Inteligência Artificial em 2023 (Evento da faculdade FMU). <br>
+Participei da Cerimônia de Premiação do NPN em 2022 (Evento da faculdade FMU). <br>
+Recebi um Prêmio Revelação em 2020. <br> 
+ 
+### Repositórios
+- <b>SQL</b>
+- <b>Python</b>
+- <b>Visualização de Dados</b>
+  
